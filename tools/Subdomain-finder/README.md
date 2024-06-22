@@ -1,6 +1,6 @@
 ![logo](./assets/dns.png)
 
-Este script realiza a enumeração de subdominions, foi implementado o sistema de fila e treading para uma execução mais rápida e eficiente.
+Este script realiza a enumeração de subdominions, foi implementado o sistema de fila e threads para uma execução mais rápida e eficiente.
 
 #### Modo de uso
 
