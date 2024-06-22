@@ -3,4 +3,4 @@ This repository contains a collection of tools and scripts designed to simulate 
 
 ### Tools
 
-[Suddomain-finder](/tools/Subdomain-finder/)
+[Subdomain-finder](/tools/Subdomain-finder/)
